@@ -1,2 +1,2 @@
-o projeto será um site para vendas
+o projeto será um site para vendas,
 irei fazer individual
